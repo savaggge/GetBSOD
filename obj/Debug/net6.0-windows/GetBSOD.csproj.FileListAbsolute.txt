@@ -1,0 +1,17 @@
+D:\UTM\PMRI\GetBSOD\bin\Debug\net6.0-windows\GetBSOD.exe
+D:\UTM\PMRI\GetBSOD\bin\Debug\net6.0-windows\GetBSOD.deps.json
+D:\UTM\PMRI\GetBSOD\bin\Debug\net6.0-windows\GetBSOD.runtimeconfig.json
+D:\UTM\PMRI\GetBSOD\bin\Debug\net6.0-windows\GetBSOD.dll
+D:\UTM\PMRI\GetBSOD\bin\Debug\net6.0-windows\GetBSOD.pdb
+D:\UTM\PMRI\GetBSOD\obj\Debug\net6.0-windows\GetBSOD.csproj.AssemblyReference.cache
+D:\UTM\PMRI\GetBSOD\obj\Debug\net6.0-windows\GetBSOD.Form1.resources
+D:\UTM\PMRI\GetBSOD\obj\Debug\net6.0-windows\GetBSOD.csproj.GenerateResource.cache
+D:\UTM\PMRI\GetBSOD\obj\Debug\net6.0-windows\GetBSOD.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTM\PMRI\GetBSOD\obj\Debug\net6.0-windows\GetBSOD.AssemblyInfoInputs.cache
+D:\UTM\PMRI\GetBSOD\obj\Debug\net6.0-windows\GetBSOD.AssemblyInfo.cs
+D:\UTM\PMRI\GetBSOD\obj\Debug\net6.0-windows\GetBSOD.csproj.CoreCompileInputs.cache
+D:\UTM\PMRI\GetBSOD\obj\Debug\net6.0-windows\GetBSOD.dll
+D:\UTM\PMRI\GetBSOD\obj\Debug\net6.0-windows\refint\GetBSOD.dll
+D:\UTM\PMRI\GetBSOD\obj\Debug\net6.0-windows\GetBSOD.pdb
+D:\UTM\PMRI\GetBSOD\obj\Debug\net6.0-windows\GetBSOD.genruntimeconfig.cache
+D:\UTM\PMRI\GetBSOD\obj\Debug\net6.0-windows\ref\GetBSOD.dll

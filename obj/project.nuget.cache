@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WFpwQegoE7XYE89TAdy1+KlXQ2C72nIcXA9BKjmEBxlj9l53khE7IYRjf3Mqclq319ClUuVU32BYYd+AbyiJPA==",
+  "success": true,
+  "projectFilePath": "D:\\UTM\\PMRI\\GetBSOD\\GetBSOD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\savage\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\savage\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
